@@ -1,0 +1,204 @@
+banner_id,visit_id,domain,html,html_short
+1442804393432181.0,1.0,youtube.com,"<div id=""content"" class=""style-scope ytd-consent-bump-v2-lightbox"">
+    
+      <h2 tabindex=""-1"" id=""cb-header"" class=""eom-title style-scope ytd-consent-bump-v2-lightbox"">
+        <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Before you continue to YouTube</yt-formatted-string>
+      </h2>
+      <div class=""ica-claimer style-scope ytd-consent-bump-v2-lightbox"" hidden="""">
+        <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"" is-empty=""function(){var e=_.je.apply(0,arguments);a.loggingStatus.currentExternalCall=b;a.loggingStatus.bypassProxyController=!0;var g,k=((g=a.is)!=null?g:a.tagName).toLowerCase();Io(k,b,&quot;PROPERTY_ACCESS_CALL_EXTERNAL&quot;);var m;g=(m=c!=null?c:d[b])==null?void 0:m.call.apply(m,[d].concat(_.lf(e)));a.loggingStatus.currentExternalCall=void 0;a.loggingStatus.bypassProxyController=!1;return g}""><!--css_build_scope:yt-formatted-string--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.ui.yt_formatted_string.yt.formatted.string.css.js--><yt-attributed-string class=""style-scope yt-formatted-string""></yt-attributed-string></yt-formatted-string>
+      </div>
+      <div class=""body style-scope ytd-consent-bump-v2-lightbox"">
+        <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+          <div class=""legal-text style-scope ytd-consent-bump-v2-lightbox"">
+            <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox""><span dir=""auto"" class=""style-scope yt-formatted-string"">We use </span><a class=""yt-simple-endpoint style-scope yt-formatted-string"" spellcheck=""false"" href=""https://policies.google.com/technologies/cookies?hl=en"" rel=""nofollow"" dir=""auto"">cookies</a><span dir=""auto"" class=""style-scope yt-formatted-string""> and data to</span></yt-formatted-string>
+          </div>
+          <ul class=""style-scope ytd-consent-bump-v2-lightbox"">
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" enable-background=""new 0 0 24 24"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><path d=""M12 2 4 5.67v5.49c0 1.47.3 2.9.81 4.22.17.44.37.86.6 1.28.16.3.34.6.52.88 1.42 2.17 3.52 3.82 5.95 4.44L12 22l.12-.03c2.43-.61 4.53-2.26 5.95-4.43.19-.29.36-.58.52-.88.22-.41.43-.84.6-1.28.51-1.33.81-2.76.81-4.23V5.67L12 2zm0 1.1 6.11 2.8L12 11.15 5.89 5.9 12 3.1zM5.75 15.01c-.5-1.26-.75-2.56-.75-3.86v-4.7l6.23 5.35-4.98 4.28c-.2-.37-.37-.72-.5-1.07zm11.48 1.98C15.91 19 14.06 20.41 12 20.97c-2.06-.56-3.91-1.97-5.23-3.98 0-.01-.01-.01-.01-.02l5.24-4.5 5.24 4.5c-.01.01-.01.01-.01.02zM19 11.15c0 1.3-.25 2.6-.75 3.86-.14.35-.3.7-.5 1.08l-4.98-4.28L19 6.45v4.7z""></path></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Deliver and maintain Google services</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><path d=""M13 18h-2v-2h2v2zm0-8h-2v5h2v-5zm-1-4.11L20.2 19H3.8L12 5.89M12 4 2 20h20L12 4z""></path></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Track outages and protect against spam, fraud, and abuse</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><path d=""M18 13v6h-1v-6h1zm-7-8v14h1V5h-1zM5 9v10h1V9H5z""></path></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services</yt-formatted-string>
+                </div>
+              </li>
+            <ps-dom-repeat class=""style-scope ytd-consent-bump-v2-lightbox""><template is=""dom-repeat""></template></ps-dom-repeat>
+          </ul>
+        </div>
+        <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+          <div class=""legal-text style-scope ytd-consent-bump-v2-lightbox"">
+            <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">If you choose to “Accept all,” we will also use cookies and data to</yt-formatted-string>
+          </div>
+          <ul class=""style-scope ytd-consent-bump-v2-lightbox"">
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" enable-background=""new 0 0 24 24"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><path d=""M22 6v7h-1V7.6l-8.5 7.6-4-4-5.6 5.6-.7-.7 6.4-6.4 4 4L20.2 7H15V6h7z""></path></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Develop and improve new services</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><path d=""M18 13v6h-1v-6h1zm-7-8v14h1V5h-1zM5 9v10h1V9H5z""></path></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Deliver and measure the effectiveness of ads</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" enable-background=""new 0 0 24 24"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><path d=""m9.91 8.7.6 2.12.15.54.54.15 2.12.6-2.12.6-.54.15-.15.54-.6 2.12-.6-2.12-.15-.54-.54-.16-2.12-.6 2.12-.6.54-.15.15-.54.6-2.11m0-3.69-1.56 5.53-5.52 1.56 5.53 1.56 1.56 5.53 1.56-5.53L17 12.1l-5.53-1.56-1.56-5.53zm6.81 11.8-2.76.78 2.76.78.78 2.76.78-2.76 2.76-.78-2.76-.78-.78-2.76-.78 2.76zm.78-13.85-.78 2.76-2.76.78 2.76.78.78 2.76.78-2.76 2.76-.78-2.76-.78-.78-2.76z""></path></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Show personalized content, depending on your settings</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li class=""icon-li style-scope ytd-consent-bump-v2-lightbox"">
+                <yt-icon class=""item-icon style-scope ytd-consent-bump-v2-lightbox""><!--css_build_scope:yt-icon--><!--css_build_styles:video.youtube.src.web.polymer.shared.ui.styles.yt_base_styles.yt.base.styles.css.js,video.youtube.src.web.polymer.shared.core.yt_icon.yt.icon.css.js--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" enable-background=""new 0 0 24 24"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><g><path d=""M5.02 6.75c-.14-.82.42-1.59 1.23-1.73s1.59.41 1.73 1.23c.14.82-.41 1.59-1.23 1.73-.82.14-1.59-.42-1.73-1.23zM3.99 4 4 11.08l9.36 9.36 7.07-7.07-9.36-9.36L3.99 4m-1-1 8.49.01 10.36 10.36-8.49 8.49L3 11.49 2.99 3z""></path></g></svg></div></span></yt-icon>
+                <div class=""style-scope ytd-consent-bump-v2-lightbox"">
+                  <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Show personalized ads, depending on your settings</yt-formatted-string>
+                </div>
+              </li>
+            <ps-dom-repeat class=""style-scope ytd-consent-bump-v2-lightbox""><template is=""dom-repeat""></template></ps-dom-repeat>
+          </ul>
+        </div>
+        <div class=""legal-text style-scope ytd-consent-bump-v2-lightbox"">
+          <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">If you choose to “Reject all,” we will not use cookies for these additional purposes.</yt-formatted-string>
+        </div>
+        <div class=""legal-text style-scope ytd-consent-bump-v2-lightbox"">
+          <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Non-personalized content and ads are influenced by things like the content you’re currently viewing and your location (ad serving is based on general location). Personalized content and ads can also include things like video recommendations, a customized YouTube homepage, and tailored ads based on past activity, like the videos you watch and the things you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.</yt-formatted-string>
+        </div>
+        <div class=""legal-text style-scope ytd-consent-bump-v2-lightbox"">
+          <yt-formatted-string class=""style-scope ytd-consent-bump-v2-lightbox"">Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.</yt-formatted-string>
+        </div>
+        <div class=""eom-buttons style-scope ytd-consent-bump-v2-lightbox"">
+          <div class=""eom-button-row style-scope ytd-consent-bump-v2-lightbox"">
+            <ytd-button-renderer class=""style-scope ytd-consent-bump-v2-lightbox"" button-renderer="""" button-next=""""><yt-button-shape><button class=""yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m"" aria-disabled=""false"" aria-label=""Reject the use of cookies and other data for the purposes described"" title="""" style=""""><div class=""yt-spec-button-shape-next__button-text-content""><span class=""yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap"" role=""text"">Reject all</span></div><yt-touch-feedback-shape style=""border-radius: inherit;""><div class=""yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response-inverse"" aria-hidden=""true""><div class=""yt-spec-touch-feedback-shape__stroke"" style=""""></div><div class=""yt-spec-touch-feedback-shape__fill"" style=""""></div></div></yt-touch-feedback-shape></button></yt-button-shape><tp-yt-paper-tooltip offset=""8"" disable-upgrade=""""></tp-yt-paper-tooltip></ytd-button-renderer>
+            <ytd-button-renderer class=""style-scope ytd-consent-bump-v2-lightbox"" button-renderer="""" button-next=""""><yt-button-shape><button class=""yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m"" aria-disabled=""false"" aria-label=""Accept the use of cookies and other data for the purposes described"" title="""" style=""""><div class=""yt-spec-button-shape-next__button-text-content""><span class=""yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap"" role=""text"">Accept all</span></div><yt-touch-feedback-shape style=""border-radius: inherit;""><div class=""yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response-inverse"" aria-hidden=""true""><div class=""yt-spec-touch-feedback-shape__stroke"" style=""""></div><div class=""yt-spec-touch-feedback-shape__fill"" style=""""></div></div></yt-touch-feedback-shape></button></yt-button-shape><tp-yt-paper-tooltip offset=""8"" disable-upgrade=""""></tp-yt-paper-tooltip></ytd-button-renderer>
+          </div>
+          <div class=""eom-button-row style-scope ytd-consent-bump-v2-lightbox"">
+            <ytd-button-renderer class=""style-scope ytd-consent-bump-v2-lightbox"" button-renderer="""" button-next=""""><yt-button-shape><a class=""yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m"" aria-disabled=""false"" aria-label=""More options"" title="""" href=""https://consent.youtube.com/d?continue=https://www.youtube.com/%3FthemeRefresh%3D1%26cbrd%3D1&amp;gl=DE&amp;m=0&amp;pc=yt&amp;cm=2&amp;hl=en&amp;src=2"" rel=""nofollow"" target="""" force-new-state=""true"" style=""""><div class=""yt-spec-button-shape-next__button-text-content""><span class=""yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap"" role=""text"">More options</span></div><yt-touch-feedback-shape style=""border-radius: inherit;""><div class=""yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response"" aria-hidden=""true""><div class=""yt-spec-touch-feedback-shape__stroke"" style=""""></div><div class=""yt-spec-touch-feedback-shape__fill"" style=""""></div></div></yt-touch-feedback-shape></a></yt-button-shape><tp-yt-paper-tooltip offset=""8"" disable-upgrade=""""></tp-yt-paper-tooltip></ytd-button-renderer>
+          </div>
+        </div>
+        <div class=""termlinks style-scope ytd-consent-bump-v2-lightbox"">
+          <yt-formatted-string class=""link style-scope ytd-consent-bump-v2-lightbox"" link-inherit-color="""" sec="""" has-link-only_=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" spellcheck=""false"" href=""https://policies.google.com/privacy?hl=en"" rel=""nofollow"" dir=""auto"">Privacy Policy</a></yt-formatted-string>
+          
+          
+          <span class=""term_separator style-scope ytd-consent-bump-v2-lightbox"" aria-hidden=""true"">•</span>
+          <yt-formatted-string class=""link style-scope ytd-consent-bump-v2-lightbox"" link-inherit-color="""" has-link-only_=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" spellcheck=""false"" href=""https://policies.google.com/terms?hl=en"" rel=""nofollow"" dir=""auto"">Terms of Service</a></yt-formatted-string>
+        </div>
+      </div>
+    <ps-dom-if restamp="""" class=""style-scope ytd-consent-bump-v2-lightbox""><template is=""dom-if""></template></ps-dom-if>
+  </div>","<div id=""content"">
+    
+      <h2 id=""cb-header"">
+        <yt-formatted-string >Before you continue to YouTube</yt-formatted-string>
+      </h2>
+      <div >
+        <yt-formatted-string ><yt-attributed-string ></yt-attributed-string></yt-formatted-string>
+      </div>
+      <div >
+        <div >
+          <div >
+            <yt-formatted-string ><span >We use </span><a >cookies</a><span > and data to</span></yt-formatted-string>
+          </div>
+          <ul >
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><path ></path></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Deliver and maintain Google services</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><path ></path></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Track outages and protect against spam, fraud, and abuse</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><path ></path></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services</yt-formatted-string>
+                </div>
+              </li>
+            <ps-dom-repeat ><template ></template></ps-dom-repeat>
+          </ul>
+        </div>
+        <div >
+          <div >
+            <yt-formatted-string >If you choose to “Accept all,” we will also use cookies and data to</yt-formatted-string>
+          </div>
+          <ul >
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><path ></path></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Develop and improve new services</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><path ></path></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Deliver and measure the effectiveness of ads</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><path ></path></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Show personalized content, depending on your settings</yt-formatted-string>
+                </div>
+              </li>
+            
+              <li >
+                <yt-icon ><span ><div ><svg ><g ><path ></path></g></svg></div></span></yt-icon>
+                <div >
+                  <yt-formatted-string >Show personalized ads, depending on your settings</yt-formatted-string>
+                </div>
+              </li>
+            <ps-dom-repeat ><template ></template></ps-dom-repeat>
+          </ul>
+        </div>
+        <div >
+          <yt-formatted-string >If you choose to “Reject all,” we will not use cookies for these additional purposes.</yt-formatted-string>
+        </div>
+        <div >
+          <yt-formatted-string >Non-personalized content and ads are influenced by things like the content you’re currently viewing and your location (ad serving is based on general location). Personalized content and ads can also include things like video recommendations, a customized YouTube homepage, and tailored ads based on past activity, like the videos you watch and the things you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.</yt-formatted-string>
+        </div>
+        <div >
+          <yt-formatted-string >Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.</yt-formatted-string>
+        </div>
+        <div class=""eom-buttons style-scope ytd-consent-bump-v2-lightbox"">
+          <div class=""eom-button-row style-scope ytd-consent-bump-v2-lightbox"">
+            <ytd-button-renderer ><yt-button-shape ><button class=""yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m""><div class=""yt-spec-button-shape-next__button-text-content""><span >Reject all</span></div><yt-touch-feedback-shape ><div ><div ></div><div ></div></div></yt-touch-feedback-shape></button></yt-button-shape><tp-yt-paper-tooltip ></tp-yt-paper-tooltip></ytd-button-renderer>
+            <ytd-button-renderer ><yt-button-shape ><button class=""yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m""><div class=""yt-spec-button-shape-next__button-text-content""><span >Accept all</span></div><yt-touch-feedback-shape ><div ><div ></div><div ></div></div></yt-touch-feedback-shape></button></yt-button-shape><tp-yt-paper-tooltip ></tp-yt-paper-tooltip></ytd-button-renderer>
+          </div>
+          <div class=""eom-button-row style-scope ytd-consent-bump-v2-lightbox"">
+            <ytd-button-renderer ><yt-button-shape ><a class=""yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m""><div class=""yt-spec-button-shape-next__button-text-content""><span >More options</span></div><yt-touch-feedback-shape ><div ><div ></div><div ></div></div></yt-touch-feedback-shape></a></yt-button-shape><tp-yt-paper-tooltip ></tp-yt-paper-tooltip></ytd-button-renderer>
+          </div>
+        </div>
+        <div >
+          <yt-formatted-string ><a >Privacy Policy</a></yt-formatted-string>
+          
+          
+          <span >•</span>
+          <yt-formatted-string ><a >Terms of Service</a></yt-formatted-string>
+        </div>
+      </div>
+    <ps-dom-if ><template ></template></ps-dom-if>
+  </div>"

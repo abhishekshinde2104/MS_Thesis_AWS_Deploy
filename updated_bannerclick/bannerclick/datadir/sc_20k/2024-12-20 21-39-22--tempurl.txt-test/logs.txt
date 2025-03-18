@@ -1,0 +1,25 @@
+Crawl initialized for: tempurl.txt in 21-39-22
+    START_POINT:STEP_SIZE: 0:20000
+    headless: True
+    input_file: None
+    num_browsers: 1
+    num_repetitions: 1
+    timeout: 60
+    translation: False
+    delay_time: 30
+    ATTEMPTS:ATTEMPT_STEP: 1:3
+    Chrome: True
+    openwpm.xpi: True
+    Watchdog: True
+    interaction choice: ALL
+    non explicit: True
+    SIMPLE_DETECTION: True
+    search for reject btn in setting: True
+    NC_ADDON: True
+    mobile agent: False
+    CMP detection: True
+    banner interaction: True 
+
+____________________________________________________________
+
+failed in switching in banner_sc section for : https://youtube.com [Errno 2] No such file or directory: './datadir/sc_20k/2024-12-20 21-39-22--tempurl.txt-test/screenshots/1 youtube.com.png'
